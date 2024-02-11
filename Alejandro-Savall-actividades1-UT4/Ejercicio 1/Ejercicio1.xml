@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<equipo>
+    <nombre>F. C. Barcelona</nombre>
+
+    <entrenador>
+        <nombre>Josep Guardiola i Sala</nombre>
+        <apodo>Pep Guardiola</apodo>
+        <lugarNacimiento>Sampedor (Cataluña)</lugarNacimiento>
+        <anyoNacimiento>1971</anyoNacimiento>
+    </entrenador>
+
+    <jugadores numeroJugadores="5">
+        <jugador>
+            <nombre>Lionel Andrés Messi Cuccittini</nombre>
+            <apodo>Messi</apodo>
+            <dorsal>19</dorsal>
+            <posicion>Extremo derecho</posicion>
+            <lugarNacimiento>Rosario (Argentina)</lugarNacimiento>
+            <anyoNacimiento>1987</anyoNacimiento>
+            <estaturaMetros>1,70</estaturaMetros>
+            <pesoKilos>65</pesoKilos>
+
+        </jugador>
+
+        <jugador>
+            <nombre>Ronaldo de Assis Moreira</nombre>
+            <apodo>Ronaldinho</apodo>
+            <dorsal>10</dorsal>
+            <posicion>Extremo izquierdo</posicion>
+            <lugarNacimiento>Porto alegre (Brasil)</lugarNacimiento>
+            <anyoNacimiento>1980</anyoNacimiento>
+            <estaturaMetros>1,82</estaturaMetros>
+            <pesoKilos>80</pesoKilos>
+        </jugador>
+
+        <jugador>
+            <nombre>Andrés Iniesta Luján</nombre>
+            <apodo>Iniesta</apodo>
+            <dorsal>8</dorsal>
+            <posicion>Centrocampista</posicion>
+            <lugarNacimiento>Fuentealbilla (Albacete)</lugarNacimiento>
+            <anyoNacimiento>1984</anyoNacimiento>
+            <estaturaMetros>1,72</estaturaMetros>
+            <pesoKilos>65</pesoKilos>
+        </jugador>
+
+        <jugador>
+            <nombre>Xavier Hernández Creus</nombre>
+            <apodo>Xavi</apodo>
+            <dorsal>6</dorsal>
+            <posicion>Centrocampista</posicion>
+            <lugarNacimiento>Terrassa (Cataluña)</lugarNacimiento>
+            <anyoNacimiento>1980</anyoNacimiento>
+            <estaturaMetros>1,70</estaturaMetros>
+            <pesoKilos>70</pesoKilos>
+        </jugador>
+
+        <jugador>
+            <nombre>Carles Puyol Saforcada</nombre>
+            <apodo>Puyol</apodo>
+            <dorsal>5</dorsal>
+            <posicion>Defensa</posicion>
+            <lugarNacimiento>Puebla de Segur (Cataluña)</lugarNacimiento>
+            <anyoNacimiento>1978</anyoNacimiento>
+            <estaturaMetros>1,78</estaturaMetros>
+            <pesoKilos>80</pesoKilos>
+        </jugador>
+    </jugadores>
+</equipo>
