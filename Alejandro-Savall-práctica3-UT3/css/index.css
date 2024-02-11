@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+    color: gold;
+    margin: 0% 15% 0% 15%;
+}
+
+header {
+    background-color: rgb(150, 3, 150);
+}
+
+header h1 {
+    font-size: 400%;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 200%;
+}
+
+.navbar {
+    border-radius: 30px;;
+    padding-right: 2%;
+}
+
+main {
+    background-color: rgb(150, 3, 150);
+}
+
+main .col {
+    height: 0%;
+}
+
+main img {
+    border: 4px solid ;
+    height: 40%;
+    border: 4px solid gold
+}
+
+main .card {
+    border-color: rgb(150, 3, 150);
+    background-color: rgb(150, 3, 150);
+    font-size: large;
+    height: 50%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+main .card-body {
+    height: 40%;
+    font-size: 130%;
+    font-weight: bold;
+    color: gold;
+}
+
+main .card-title {
+    height: 40%;
+    font-size: 140%;
+    font-weight: bold;
+}
+
+main .precio {
+    color: white;
+}
+
+footer {
+    background-color: gold;
+}
+
+footer li {
+    background-color: goldenrod;
+    border-radius: 30px;
+    padding: 0% 2% 0% 2%;
+    
+}
+
+footer .nav-link {
+    color: gold;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.nav-link {
+    color: gold;
+}
+
+.nav-link:hover {
+    color: white;
+}
