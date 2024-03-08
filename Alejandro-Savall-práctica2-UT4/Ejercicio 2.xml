@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Sección Tecnología</title>
+        <link>https://www.elpais.com/tecnologia/</link>
+        <descripcion>Sección de noticias actuales sobre tecnología</descripcion>
+        <item>
+            <title>Sony empieza a reabrir las plataformas asaltadas</title>
+            <link>https://www.elpais.com/tecnologia/jfun4uJYDN</link>
+            <descripcion>Sony ha empezado... ... ...para Sony Online.</descripcion>
+            <author>EL PAÍS</author>
+            <pubDate>Fri, 8 Mar 2024 07:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>El código detrás del tuit</title>
+            <link>https://www.elpais.com/tecnologia/RvGtjkj4n4h</link>
+            <descripcion>En el reino de tuitilandia... ... ...de un instante.</descripcion>
+            <author>RAFAEL CLEMENTE</author>
+            <pubDate>Fri, 8 Mar 2024 03:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title>Google maneja el ruido en la Red para ocultar sus problemas</title>
+            <link>https://www.elpais.com/tecnologia/uhESChloy3fv5</link>
+            <descripcion>Blogger no es una plataforma... ... ...en todo el...</descripcion>
+            <author>ADRIÁN SEGOVIA</author>
+            <pubDate>Fri, 8 Mar 2024 03:47:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

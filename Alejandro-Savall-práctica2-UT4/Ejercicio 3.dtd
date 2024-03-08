@@ -1,0 +1,17 @@
+<!ELEMENT rss (channel)>
+<!ATTLIST rss version ( 0.91 | 1.0 | 2.0 ) #REQUIRED>
+<!ELEMENT channel (title, link, description, language, image*, item+)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT image (title, url, link, width?, heigth?)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT width (#PCDATA)>
+<!ELEMENT heigth (#PCDATA)>
+<!ELEMENT item (title, link?, description?)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT description (#PCDATA)>

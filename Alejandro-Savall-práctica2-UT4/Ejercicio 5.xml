@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Band>
+    <NameBand>The Rolling Stones</NameBand>
+
+    <History>
+        Grupo británico de rock originario de Londres. 
+        Fue formado en abril de 1963.
+    </History>
+
+    <Member BDate="03-11-1947" Plays="Voz">
+        <NameMember>Mick Jagger</NameMember>
+        <Role>Cantante</Role>
+        <Joined YEAR="1962"></Joined>
+    </Member>
+    <Member BDate="" Plays="Guitarra">
+        <NameMember>Keith Richards</NameMember>
+        <Role>Guitarrista principal</Role>
+        <Joined YEAR="1962"></Joined>
+    </Member>
+    <Member BDate="" Plays="Guitarra">
+        <NameMember>Ronnie Wood</NameMember>
+        <Role>Guitarrista secundario</Role>
+        <Joined YEAR="1975"></Joined>
+    </Member>
+    <Member BDate="05-08-1951" Plays="Batería">
+        <NameMember>Charlie Watts</NameMember>
+        <Role>Baterista</Role>
+        <Joined YEAR="1963"></Joined>
+    </Member>
+
+    <Intrument Id="FTEL-65">Fender Telecaster 65"</Intrument>
+    <Intrument Id="G-LPC68">Gibson Les Paul Custom 1968"</Intrument>
+    <Intrument Id="MPEX-K">Mapex Drum King"</Intrument>
+</Band>
